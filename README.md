@@ -33,7 +33,7 @@ Una vez iniciada la aplicación, puedes acceder a la documentación interactiva 
 Para acceder a la consola de H2:
 
 - **URL**: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
-- **JDBC URL**: `jdbc:h2:~/prueba;AUTO_SERVER=TRUE`
+- **JDBC URL**: `jdbc:h2:mem:productosdb;DB_CLOSE_DELAY=-1`
 - **User**: `sa`
 - **Password**: (dejar vacío)
 

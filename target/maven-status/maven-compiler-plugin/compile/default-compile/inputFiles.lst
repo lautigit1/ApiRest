@@ -1,0 +1,13 @@
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\repository\ProductoRepository.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\model\Producto.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\exception\ErrorResponse.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\ProductosApplication.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\model\Categoria.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\controller\ProductoController.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\service\ProductoService.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\exception\GlobalExceptionHandler.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\dto\ProductoResponseDTO.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\service\ProductoServiceImpl.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\dto\ProductoDTO.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\dto\ActualizarStockDTO.java
+C:\Users\lauti\OneDrive\Escritorio\ApiRest\src\main\java\com\utn\productos\exception\ProductoNotFoundException.java
